@@ -8,6 +8,8 @@ Another SQL file name "SQL_ queries" whichcontain all the queries need to be run
 
 A folder name "Bonus" which contain the bonus part containing the SQL to pandas dataframe conversion and all the analyzing part with histogram and bar chart.
 
+A folder containing the ER-Diagram containing the image and the code.
+
 For accessing the database from postgres you will need to add your sever and passowrd into the python code in order to run the program.
 
 All the requirements of the grading rubic is satisfied and done as asked according.
